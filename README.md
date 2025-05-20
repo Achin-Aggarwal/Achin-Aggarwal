@@ -33,6 +33,14 @@ Email ID 👉 ✉️ **achin.nupur@gmail.com** 😊😊
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Achin-Aggarwal/Achin-Aggarwal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Achin-Aggarwal/Achin-Aggarwal/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Achin-Aggarwal/Achin-Aggarwal/output/github-snake.svg" />
+</picture>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Achin-Aggarwal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
