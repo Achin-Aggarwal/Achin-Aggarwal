@@ -3,7 +3,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Achin Aggarwal</h1>
 <h3 align="center">A passionate Software Developer || Machine Learning Learner || Data Scientist Enthusiast.</h3>
 
+
 Email ID 👉 ✉️ **achin.nupur@gmail.com** 😊😊
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on: **AI Agent for Academic Guidance.**
@@ -28,11 +30,11 @@ Email ID 👉 ✉️ **achin.nupur@gmail.com** 😊😊
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/achin-aggarwal-162143205/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:achin.nupur@gmail.com) 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Achin-Aggarwal/Achin-Aggarwal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Achin-Aggarwal/Achin-Aggarwal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Achin-Aggarwal/Achin-Aggarwal/output/github-snake.svg" />
-</picture>
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/Achin-Aggarwal/Achin-Aggarwal/blob/output/github-snake-dark.svg)
+</div>
 
 
 ## 🏆 GitHub Trophies
