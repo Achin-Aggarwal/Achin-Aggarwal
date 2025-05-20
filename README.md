@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-# 💫 Hi 👋, I'm Achin Aggarwal
-**A passionate Software Developer || Machine Learning Learner || Data Scientist Enthusiast**
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Achin Aggarwal</h1>
+<h3 align="center">A passionate Software Developer || Machine Learning Learner || Data Scientist Enthusiast.</h3>
 
 Email ID 👉 ✉️ **achin.nupur@gmail.com** 😊😊
 
